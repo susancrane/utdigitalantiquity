@@ -4,6 +4,8 @@
 
 [Antigrapheus](https://dcthree.github.io/antigrapheus/)
 
+[EpiDoc] (https://www.stoa.org/epidoc/gl/latest/)
+
 [FromThePage transcription platform](https://fromthepage.lib.utexas.edu)
 
 [Voyant Tools](https://voyant-tools.org)
